@@ -1,0 +1,49 @@
+.first{
+    background-color:rgb(211, 192, 170);
+}
+.photo{
+    width:500px;
+    height: 200px;
+    object-fit:cover;
+    border-radius: 50px;
+}
+body{
+    background-color:rgb(216, 212, 204);
+    margin:0;
+}
+.table{
+    margin:auto;
+}
+.topic {
+    margin-top: auto;;
+    text-align:center;
+    color: rgb(9, 160, 162);
+    text-decoration-line: underline;
+}
+iframe {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+em {
+color: red;
+font-style: normal;
+}
+#t1-valorant {
+    text-decoration-line: underline;
+}
+#t2-agents {
+text-decoration-line: underline;
+}
+#t3-maps {
+text-decoration-line: underline;
+}
+.new{
+    text-align: center;
+}
+.agents{
+    text-align: center;
+}
+.maps{
+    text-align: center;
+}
